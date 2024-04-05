@@ -2,6 +2,9 @@
 
 ## Course Project - EE 309 - Microprocessors - Indian Institute of Technology Bombay
 
+### [Link to Pipelined Implementation](https://github.com/IITB-RISC-2022/Pipelined_RISC)
+### [Link to ALU Superscalar Extended Implementation](https://github.com/aweditya/superscalar)
+
 #### Course Instructor : Prof Virendra Singh
 
 ## Datapath
